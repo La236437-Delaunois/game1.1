@@ -1,0 +1,56 @@
+{
+  "mysql_prod": {
+      "type": "mysql",
+      "username": "sa",
+      "password": "1234",
+      "database": "game",
+      "port": 1433,
+      "host": "localhost"
+  },
+  "mysql_test": {
+    "type": "mysql",
+    "username": "sa",
+    "password": "1234",
+    "database": "game",
+    "port": 1433,
+    "host": "localhost"
+
+  },
+  "sqlserver_prod": {
+    "type": "mysql",
+    "username": "sa",
+    "password": "1234",
+    "database": "game",
+    "port": 1433,
+    "host": "localhost"
+
+  },
+  "sqlserver_test": {
+    "type": "mysql",
+    "username": "sa",
+    "password": "1234",
+    "database": "game",
+    "port": 1433,
+    "host": "localhost"
+
+  },
+  "mongo_chest": {
+    "type": "mysql",
+    "username": "sa",
+    "password": "1234",
+    "database": "game",
+    "port": 1433,
+    "host": "localhost"
+
+  },
+  "mongo_test": {
+    "type": "mysql",
+    "username": "sa",
+    "password": "1234",
+    "database": "game",
+    "port": 1433,
+    "host": "localhost"
+
+  }
+}
+
