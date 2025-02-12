@@ -1,0 +1,20 @@
+{
+  "chest": {
+    "type": "Wood Chest",
+    "maxSize": 20,
+    "content": [
+      {
+        "sword": {
+          "type": "Basic"
+        }
+      },
+      {
+        "Life Potion": {
+          "type": "Small Bottle",
+          "maxSize": 20,
+          "content": 18
+        }
+      }
+    ]
+  }
+}
